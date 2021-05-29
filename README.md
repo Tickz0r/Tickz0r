@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Tickz0r
-- 👀 I’m interested in HTML and CSS
-- 📫 How to reach me Tiick#6666
+- 👋 Olá, eu me chamo Temis.
+- Sou experiente em HTML & CSS
 ;)
