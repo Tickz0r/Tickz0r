@@ -9,4 +9,3 @@
     <g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">🇧🇷</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">📍</g-emoji> <g-emoji class="g-emoji" alias="canada" fallback-
  </h3>
   </div>
-  <p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working multiple projects using Next.js, TypeScript, GraphQL and Apollo.</p>
