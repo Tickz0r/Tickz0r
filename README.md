@@ -15,6 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tickz0r&theme=outrun&show_icons=true&locale=en&layout=compact" alt="tickz0r" /></p>
 <div>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tickz0r&theme=outrun&show_icons=true&locale=en" alt="tickz0r" /></p> 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tickz0r&" alt="tickz0r" /></p>
 </div>
 
