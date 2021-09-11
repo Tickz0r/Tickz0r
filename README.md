@@ -6,7 +6,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tem%c3%adstocles-akim-b38705211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tem%c3%adstocles-akim-b38705211/" height="30" width="40" /></a>
 <a href="https://www.behance.net/tickzito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tickzito" height="30" width="40" /></a>
 </p>
 
