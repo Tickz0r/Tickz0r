@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, My name is Temis</h1>
-<h3 align="center">I'm a front-end programmer.</h3>
+<h3 align="center">I'm a Systems Analyst.</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All my projects are available at [behance.net/tickzito](https://www.behance.net/tickzito)
