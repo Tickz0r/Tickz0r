@@ -1,4 +1,4 @@
-<h1 align="center">What's up, My name is Tick</h1>
+<h1 align="center">What's up!</h1>
 <h3 align="center">I'm a Systems Analyst.</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
