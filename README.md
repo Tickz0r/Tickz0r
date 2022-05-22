@@ -23,7 +23,7 @@
 # ⠄⠄⠄⠄⠄⠄⠉⠙⠻⣿⣿⣿⣁⣀⣈⣩⣭⣶⣿⣿⣿⣷⣭⡶⠋⠄⠄⠄-->
 <div class="tick" align="center">
 <h1 align="center">Hi there 🐈</h1>
-<img src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f7.svg" width="40" height="40"><span><img src="https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f7.svg" width="40" height="40"><br>
+<img src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f7.svg" width="40" height="40"><span><br>
 </div>
   
 <div id="languages" align="center">
