@@ -1,19 +1,49 @@
-<h1 align="center">What's up!</h1>
-<h3 align="center">I'm a Systems Analyst.</h3>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!--
+#  _______   _          _             ___         
+# |__   __| (_)        | |           / _ \        
+#    | |     _    ___  | | __  ____ | | | |  _ __ 
+#    | |    | |  / __| | |/ / |_  / | | | | | '__|
+#    | |    | | | (__  |   <   / /  | |_| | | |   
+#    |_|    |_|  \___| |_|\_\ /___|  \___/  |_|   
+                                                 
 
-- 👨‍💻 For more projects access my portfolio [behance.net/tickzito](https://www.behance.net/tickzito)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.behance.net/tickzito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tickzito" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tickz0r&theme=outrun&show_icons=true&locale=en" alt="tickz0r" /></p> 
+# ⠄⠄⠄⠄⠄⠄⠄⠄⢀⣀⣤⣴⣶⠞⠛⢶⣤⣄⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄
+# ⠄⠄⠄⠄⠄⣠⡶⠿⠿⠿⠿⠟⠁⣰⠇⣈⠻⣿⣿⣷⣶⣤⣀⠄⠄⠄⠄⠄
+# ⠄⠄⠄⢠⣾⣿⡗⢿⣶⣶⣤⣴⣾⠟⢠⡏⠄⠄⠈⠙⠿⣿⣿⣷⣦⠄⠄⠄
+# ⠄⠄⢠⣿⣿⣿⠇⢶⣤⣀⡺⠿⠋⣠⡾⠄⠄⢤⣶⣤⣄⠈⠛⢿⣿⣷⡄⠄
+# ⠄⢀⣿⣿⣿⣣⣿⣷⣌⡛⢿⣿⣾⡟⠁⢤⣤⣀⠙⢿⣿⣷⣄⠄⠙⢿⣷⠄
+# ⠄⣼⣿⣿⣳⣿⣿⣿⣿⣿⣷⣦⢭⣶⣇⠄⠻⣿⣧⡀⠙⢿⣿⣷⣦⡀⠙⠇
+# ⢰⣿⣿⣳⣿⣿⣻⣿⢿⣿⣿⣿⣿⣿⣿⣷⡀⠹⣿⣿⣄⠄⠹⣿⣿⣴⡄⠄
+#  ⢸⡿⣱⣿⣿⣏⣿⣿⢸⣿⣿⣧⣿⣿⣿⣿⣷⡀⠘⣿⣿⣦⠄⠈⢿⡿⣱⣿
+# ⠘⣵⣿⣿⣿⣸⣿⣿⢾⣿⣿⣿⢸⣿⣿⣿⣿⣷⠄⡜⣿⣿⣷⠄⠄⠁⣿⡿
+# ⢸⣶⣍⢿⢧⣿⣿⣿⢸⣿⣿⣿⢸⣿⣿⣿⣿⣿⣇⠘⡜⣿⣷⣴⣦⣀⠘⠄ by Tick#1977 
+# ⠄⠻⣿⢇⣾⣿⣿⣿⢸⣿⣿⣿⡯⣿⣿⣿⣿⣿⣿⡆⠘⡽⡟⢫⣴⣶⡆⠄              ~   github.com/Tickz0r
+# ⠄⠄⠙⢷⣿⡭⠡⠆⢸⣿⣿⣿⡇⠿⣿⣿⣿⣿⠛⠻⠄⢫⠄⣀⡹⣿⡇⠄
+# ⠄⠄⠄⠄⠙⠃⠄⢀⣚⣭⣭⣭⡍⠄⣿⣿⣿⡿⢟⣛⣂⠄⣼⡿⣣⡟⠄⠄
+# ⠄⠄⠄⠄⠄⠄⠉⠙⠻⣿⣿⣿⣁⣀⣈⣩⣭⣶⣿⣿⣿⣷⣭⡶⠋⠄⠄⠄-->
+<div class="tick" align="center">
+<h1 align="center">Hi there 🐈</h1>
+<img src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f7.svg" width="40" height="40"><span><img src="https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f7.svg" width="40" height="40"><br>
 </div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tickz0r&theme=outrun&show_icons=true&locale=en&layout=compact" alt="tickz0r" /></p>
-
+  
+<div id="languages" align="center">
+  <h2> Languages / Programs<br><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="60" height="60" alt="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="Html">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React JS">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="60" height="60" alt="Javascript">  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS">  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node JS">  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60" height="60" alt="Npm">  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="60" height="60" alt="Heroku">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="60" height="60" alt="Lua">  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" width="60" height="60" alt="Flutter">  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60" height="60" alt="Figma">  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="60" height="60" alt="IntelliJ">
+  </h2>
+</div>
+  
+<div id="stats" align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Tickz0r&show_icons=true&locale=en&theme=midnight-purple" alt="Tickz0r" /> <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tickz0r&layout=compact&theme=midnight-purple" alt="Tickz0r" />
+</div>
