@@ -28,7 +28,7 @@
 </div>
   
 <div id="languages" align="center">
-  <h2> Languages / Programs<br><br>
+  <h2><br><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="60" height="60" alt="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="Html">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React JS">
