@@ -22,7 +22,7 @@
 # ⠄⠄⠄⠄⠙⠃⠄⢀⣚⣭⣭⣭⡍⠄⣿⣿⣿⡿⢟⣛⣂⠄⣼⡿⣣⡟⠄⠄
 # ⠄⠄⠄⠄⠄⠄⠉⠙⠻⣿⣿⣿⣁⣀⣈⣩⣭⣶⣿⣿⣿⣷⣭⡶⠋⠄⠄⠄-->
 <div class="tick" align="center">
-<h1 align="center">Hi there 🐈</h1>
+<h1 align="center">Hi there 🐈‍⬛</h1>
  <img src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f7.svg" width="40" height="40"><span><br>
 <b> Όλα περνούν...
 <div>in the fury of the night i keep myself lit.</b>
